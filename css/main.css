@@ -319,18 +319,18 @@ footer a:hover {
 .pinterest {
 	background-image: url('../img/pinterest.svg');
 }
-.newsletter .link-header{
+.newsletter .link-header {
 	font-size: 12px;
 	font-weight: 400;
 	margin-bottom: 5px;
 }
-.newsletter .link-subheader{
+.newsletter .link-subheader {
 	font-style: italic;
 	font-size: 12px;
 	font-weight: 400;
 	margin-bottom: 10px;
 }
-.newsletter input{
+.newsletter input {
 	border: 1px solid #364147;
 	width: 200px;
 	margin-bottom: 10px;
@@ -352,7 +352,7 @@ footer a:hover {
 }
 .demo {
 	padding: 0 30px;}
-.demo:before{
+.demo:before {
 	content: "";
 	display: block;
 	width: 100%;
